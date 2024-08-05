@@ -6,4 +6,4 @@ Meu nome é Larissa
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
 
-![descrição do GIF].(https://gizmodo.vol.com.br/wp-content/blogs.dir/8/files/2021/02/nyan-cat.gif).
+![descrição do GIF].(https://media4.giphy.com/media/sveBbyl0l2u4g/200w.gif?cid=6c09b95269rhyg6odqjt7xebuili0qn05eqil6updvtjkxvo&ep=v1_gifs_search&rid=200w.gif&ct=g).
