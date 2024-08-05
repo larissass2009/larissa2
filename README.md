@@ -6,5 +6,5 @@ Meu nome é Larissa
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
 
-![descrição do GIF].(![image](https://github.com/user-attachments/assets/3486c4c8-2e68-4d05-ae79-afd532eff973)
-).
+![descrição do GIF](https://github.com/user-attachments/assets/3486c4c8-2e68-4d05-ae79-afd532eff973)
+)
